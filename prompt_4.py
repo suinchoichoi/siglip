@@ -6,7 +6,7 @@ from openai import OpenAI
 
 # ✅ OpenAI API 설정
 client = OpenAI(
-    api_key="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"
+    api_key=""
 )
 
 # ✅ 클래스별 설명 및 혼동 방지 전략
