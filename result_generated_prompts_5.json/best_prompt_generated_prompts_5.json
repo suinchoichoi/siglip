@@ -1,0 +1,20 @@
+{
+  "crazing": [
+    "A photo of a steel surface showing a dense network of fine, branching micro-cracks forming a distinct spiderweb pattern. The cracks are interconnected and create a glossy reflection when light hits them, unlike the straight, singular lines of scratches."
+  ],
+  "scratches": [
+    "A photo of a steel surface showing a series of straight, parallel lines etched into the metal, each mark sharply defined against the smooth background, illustrating the high contrast typical of scratches."
+  ],
+  "patches": [
+    "A photo of a steel plate featuring a diffused patch with a soft, mottled texture. The patch is gently blended into the metal, with no signs of sharp contours or holes, differentiating it from the conspicuous and defined characteristics of inclusions."
+  ],
+  "pitted_surface": [
+    "A photo of a steel surface showing a constellation of small, circular cavities, each pit casting a distinct shadow due to the low-angle lighting. These pits stand out with their deep, round profiles, differing from the broader, less defined irregularities seen in patches. The play of light and shadow emphasizes their depth and roundness."
+  ],
+  "rolled-in_scale": [
+    "A photo of a steel plate where prominent, dark streaks are embedded into the surface. These marks are linear and closely follow one another, differing from the scattered appearance of patches. The embedded nature of the scale gives the surface a textured, uneven look, unlike smooth surface defects."
+  ],
+  "inclusion": [
+    "A photo of a steel surface showing a cluster of dark, jagged inclusions with clear, defined edges. These impurities contrast starkly with the surrounding steel, creating a noticeable interruption in the otherwise consistent metallic sheen, differentiating them from the smoother, less defined pitted surfaces."
+  ]
+}

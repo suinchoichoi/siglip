@@ -1,0 +1,20 @@
+{
+  "crazing": [
+    "A photo of a steel surface displaying a severe case of crazing, featuring a chaotic arrangement of micro-cracks that crisscross and converge. The image captures a close-up view, revealing the intricate web-like pattern across a matte surface, with contrasting light reflecting off the cracks, emphasizing their interconnected nature, unlike the clean, linear patterns of scratches."
+  ],
+  "patches": [
+    "A photo of a steel surface showing multiple fuzzy-edged blotches scattered across the area, each blotch appearing as a slightly darker stain against the shiny, smooth background, highlighting the irregular and non-uniform nature of the patches."
+  ],
+  "pitted_surface": [
+    "A close-up photo of a steel plate with scattered pinpoint-sized holes caused by corrosion, where each pit creates a crisp depression. The surface texture is generally smooth except for these punctures, making them easily distinguishable from surface-level patches."
+  ],
+  "rolled-in_scale": [
+    "A photo of a steel sheet with dark, textured bands where mill scale has been rolled into the surface. The bands are elongated, slightly raised or indented, with consistent alignment that differentiates them from blotchy discoloration."
+  ],
+  "scratches": [
+    "A photo of a steel surface showing a series of sharp, linear scratches that slice across the metallic sheen like fine cuts on glass. Each scratch is distinctly straight and well-defined, contrasting sharply against the smooth surface, with glints of light reflecting off the edges."
+  ],
+  "inclusion": [
+    "A photo of a steel surface featuring dark, irregularly shaped internal impurities that appear embedded beneath the surface. These inclusions contrast sharply with the surrounding smooth metal, exhibiting sharp boundaries and non-surface textures."
+  ]
+}
